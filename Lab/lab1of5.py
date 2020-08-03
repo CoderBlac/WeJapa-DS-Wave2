@@ -6,8 +6,8 @@ elements = {'hydrogen': {'number': 1, 'weight': 1.00794, 'symbol': 'H', 'is_nobl
 #hint: After inserting the new entries you should be able to perform these lookups:
 
 #>>>print(elements['hydrogen']['is_noble_gas'])
-print (elements['hydrogen']['is_noble_gas'])
+print(elements['hydrogen']['is_noble_gas'])
 #<<< False
 #>>> print(elements['helium']['is_noble_gas'])
-print (elements['helium']['is_noble_gas'])
+print(elements['helium']['is_noble_gas'])
 #<<< True
